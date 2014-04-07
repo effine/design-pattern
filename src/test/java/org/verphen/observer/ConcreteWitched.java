@@ -14,17 +14,14 @@ public class ConcreteWitched implements IWitched {
 	/* save witchers list */
 	private List<IWitchers> list = new ArrayList<IWitchers>();
 
-	@Override
 	public void addWitcher(IWitchers w) {
 		list.add(w);
 	}
 
-	@Override
 	public void deleteWitcher(IWitchers w) {
 		list.remove(w);
 	}
 
-	@Override
 	public void notifyWitcher(Object o) {
 		for (IWitchers l : list) {
 			l.update(o);

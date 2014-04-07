@@ -8,12 +8,10 @@ package org.verphen.factoryMethod;
 /*具体产品角色类：汽车-捷豹-Jaguar*/
 public class Jaguar implements ICar {
 
-	@Override
 	public void run() {
 		System.out.println("捷豹启动");
 	}
 
-	@Override
 	public void stop() {
 		System.out.println("捷豹停止");
 	}
