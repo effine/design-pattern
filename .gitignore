@@ -1,0 +1,11 @@
+#--- package files and directory ---#
+*.jar
+*.war
+*.ear
+/target
+
+#--- eclipse files and directory ---#
+
+
+#--- class files and directory ---#
+*.class
