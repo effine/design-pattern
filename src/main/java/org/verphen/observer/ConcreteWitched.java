@@ -27,4 +27,5 @@ public class ConcreteWitched implements IWitched {
 			l.update(o);
 		}
 	}
+	
 }
