@@ -1,11 +1,7 @@
-#--- package files and directory ---#
+# ignore file
+*.class
 *.jar
 *.war
-*.ear
+
+# ignore directory
 /target
-
-#--- eclipse files and directory ---#
-
-
-#--- class files and directory ---#
-*.class
