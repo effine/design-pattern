@@ -1,7 +1,13 @@
-/target
+# eclipse files
 /.settings
 /.classpath
 /.project
+
+# java files
+/target
+/bin
 *.class
 *.war
 *.jar
+*.ear
+
