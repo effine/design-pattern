@@ -1,10 +1,13 @@
 package cn.effine.strategy.strategy;
 
 
+import cn.effine.strategy.enums.PatrolCycleUnitEnum;
+
 import java.util.Date;
 
 /**
  * 巡检任务策略定义
+ * @author admin
  */
 public interface TimeUnitStrategy<R, P> {
 
