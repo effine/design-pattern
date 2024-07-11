@@ -8,9 +8,6 @@ package cn.effine.observer;
 import java.util.ArrayList;
 import java.util.List;
 
-import cn.effine.observer.IWitched;
-import cn.effine.observer.IWitchers;
-
 /*具体被观察者角色*/
 public class ConcreteWitched implements IWitched {
 

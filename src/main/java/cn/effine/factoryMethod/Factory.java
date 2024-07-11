@@ -5,8 +5,6 @@
 
 package cn.effine.factoryMethod;
 
-import cn.effine.factoryMethod.ICar;
-
 /*抽象的工厂类*/
 public abstract class Factory {
 

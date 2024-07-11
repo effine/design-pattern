@@ -5,8 +5,6 @@
 
 package cn.effine.factoryMethod;
 
-import cn.effine.factoryMethod.ICar;
-
 /*具体产品角色类：汽车-法拉利Ferrari*/
 public class Ferrari implements ICar {
 

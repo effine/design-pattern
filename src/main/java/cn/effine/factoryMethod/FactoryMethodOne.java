@@ -5,9 +5,6 @@
 
 package cn.effine.factoryMethod;
 
-import cn.effine.factoryMethod.Factory;
-import cn.effine.factoryMethod.ICar;
-
 /*具体工厂角色类*/
 public class FactoryMethodOne extends Factory {
 

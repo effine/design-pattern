@@ -5,8 +5,6 @@
 
 package cn.effine.simpleFactory;
 
-import cn.effine.simpleFactory.ICar;
-
 /*具体产品角色类：汽车-捷豹-Jaguar*/
 public class Jaguar implements ICar {
 

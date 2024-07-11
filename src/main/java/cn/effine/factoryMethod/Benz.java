@@ -5,8 +5,6 @@
 
 package cn.effine.factoryMethod;
 
-import cn.effine.factoryMethod.ICar;
-
 /*具体产品角色类：汽车-奔驰Benz*/
 public class Benz implements ICar {
 

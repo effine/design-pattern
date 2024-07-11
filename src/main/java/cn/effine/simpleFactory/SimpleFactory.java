@@ -5,11 +5,6 @@
 
 package cn.effine.simpleFactory;
 
-import cn.effine.simpleFactory.Benz;
-import cn.effine.simpleFactory.Ferrari;
-import cn.effine.simpleFactory.ICar;
-import cn.effine.simpleFactory.Jaguar;
-
 /*工厂角色类*/
 public class SimpleFactory {
 

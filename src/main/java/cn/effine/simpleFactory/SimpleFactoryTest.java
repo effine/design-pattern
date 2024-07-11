@@ -5,9 +5,6 @@
 
 package cn.effine.simpleFactory;
 
-import cn.effine.simpleFactory.ICar;
-import cn.effine.simpleFactory.SimpleFactory;
-
 /*测试简单工厂方法类*/
 public class SimpleFactoryTest {
 	public static void main(String[] args) {

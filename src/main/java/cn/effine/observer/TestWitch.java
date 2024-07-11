@@ -5,11 +5,6 @@
 
 package cn.effine.observer;
 
-import cn.effine.observer.ConcreteWitched;
-import cn.effine.observer.ConcreteWitchers;
-import cn.effine.observer.IWitched;
-import cn.effine.observer.IWitchers;
-
 /* observer pattern test class*/
 public class TestWitch {
 	public static void main(String[] args) {

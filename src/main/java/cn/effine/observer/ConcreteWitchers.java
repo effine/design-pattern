@@ -5,8 +5,6 @@
 
 package cn.effine.observer;
 
-import cn.effine.observer.IWitchers;
-
 /*具体观察者角色*/
 public class ConcreteWitchers implements IWitchers {
 

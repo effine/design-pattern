@@ -5,8 +5,6 @@
 
 package cn.effine.observer;
 
-import cn.effine.observer.IWitchers;
-
 /*抽象被观察者角色*/
 public interface IWitched {
 
